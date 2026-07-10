@@ -744,8 +744,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 7559956450949671285}
-        m_TargetAssemblyTypeName: ClickUpgrader, Assembly-CSharp
-        m_MethodName: TryUpgradeClickingStrength
+        m_TargetAssemblyTypeName: UpgradeLogic, Assembly-CSharp
+        m_MethodName: TryToUpgrade
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
